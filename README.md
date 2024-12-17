@@ -35,7 +35,16 @@ ROC-AUC Curve
 Cross-validation for robust model performance.
 
 Visuals:
+The Distribution Graph
 ![WhatsApp Image 2024-12-17 at 13 52 24_3ca6a6f7](https://github.com/user-attachments/assets/63e58a84-75e4-49b4-bccf-802f92260f3c)
+
+![WhatsApp Image 2024-12-17 at 13 54 36_4cb3b891](https://github.com/user-attachments/assets/30e64aa2-256a-4cd8-84b4-fdadab8d0d1c)
+
+Clustering 
+![WhatsApp Image 2024-12-17 at 13 55 09_10a06188](https://github.com/user-attachments/assets/2846219d-6a5a-4e4a-8e3d-7b0b2f529368)
+
+Different Regression Graphs
+![WhatsApp Image 2024-12-17 at 13 56 24_a3cf35cc](https://github.com/user-attachments/assets/70051b41-a29f-4889-a705-4ed1cadc3ca2)
 
 
 Dataset
