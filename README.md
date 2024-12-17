@@ -34,6 +34,10 @@ ROC-AUC Curve
 
 Cross-validation for robust model performance.
 
+Visuals:
+![WhatsApp Image 2024-12-17 at 13 52 24_3ca6a6f7](https://github.com/user-attachments/assets/63e58a84-75e4-49b4-bccf-802f92260f3c)
+
+
 Dataset
 
 The dataset used for this project is sourced from Kaggle and contains 284,807 transactions, of which 492 are fraudulent. It includes features derived from PCA transformations to protect sensitive information.
